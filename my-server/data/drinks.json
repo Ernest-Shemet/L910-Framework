@@ -1,0 +1,18 @@
+[
+    {
+    "id":"1",
+    "name": "Whiskey",
+    "abv": 40, 
+    "inStock": true,
+    "productionDate": "2022-01-01",
+    "ingredients": ["grain", "water"]
+    },
+    {
+    "id": "2",
+    "name":"absolute vodka",
+    "abv":50,
+    "inStock":true,
+    "productionDate": "1979-01-01",
+    "ingredients": "Rectified water, rectified ethyl alcohol from food raw materials of the highest purity."
+    }
+]

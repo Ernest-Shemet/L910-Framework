@@ -14,6 +14,7 @@ class Application {
 
     // route
     get(path, handler) { this.routes.GET.push({ path, handler }); }
+    patch(path, handler) { this.routes.PATCH.push({ path, handler }); }
 
     // start
     listen(port, cb) {

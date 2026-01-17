@@ -1,0 +1,42 @@
+  [
+    {
+        "id":"1",
+        "companyName": "Global Spirits",
+        "rating": 4.5,
+        "isActive": true,
+        "contractDate":"2025-01-01",
+        "regions": ["EU", "BLR"]
+    },
+    {
+        "id":"2",
+        "companyName": "Baltic Trade Group",
+        "rating": 4.2,
+        "isActive": true,
+        "contractDate":"2023-06-15",
+        "regions": ["EU"]
+    },
+    {
+        "id":"3",
+        "companyName": "North America Supply",
+        "rating": 3.9,
+        "isActive": false,
+        "contractDate": "2022-11-03",
+        "regions": ["USA", "Canada"]
+    },
+    {
+        "id":"4",
+        "companyName": "Asia Import Co",
+        "rating": 4.8,
+        "isActive": true,
+        "contractDate":"2024-02-20",
+        "regions": ["Asia"]
+    },
+    {
+        "id":"5",
+        "companyName": "Eastern Europe Logistics",
+        "rating": 4.1,
+        "isActive": true,
+        "contractDate":"2021-09-01",
+        "regions": ["EU", "CIS"]
+    }
+]
