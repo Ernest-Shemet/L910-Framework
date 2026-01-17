@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "name": "Unknown Soldier",
+    "rank": 5,
+    "isActive": true,
+    "enlistmentDate": "2023-01-15T10:30:00Z",
+    "skills": ["recruit", "rifleman"]
+  }
+]
