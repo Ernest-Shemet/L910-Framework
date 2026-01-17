@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2",
+    "name": "Авдеева Арина",
+    "experienceYears": 3,
+    "isCertified": true,
+    "hireDate": "2008-07-12",
+    "specializations": [
+      "kids"
+    ]
+  },
+  {
+    "name": "Arnold Schwarzenegger",
+    "experienceYears": 20,
+    "isCertified": true,
+    "hireDate": "1947-06-30",
+    "specializations": [
+      "kids",
+      "pro",
+      "master"
+    ],
+    "id": "oug5cd6w1"
+  }
+]
