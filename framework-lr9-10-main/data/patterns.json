@@ -1,0 +1,17 @@
+[{
+    "id":"1",
+    "name": "Singleton",
+    "complexity": 1,
+    "isPopular": true,
+    "addedDate":"2021-01-01",
+    "tags": ["creational", "basic"]
+},
+{
+    "id":"2",
+    "name": "Factory Method",
+    "complexity": 2,
+    "isPopular": true,
+    "addedDate": "2023-10-12",
+    "tags": ["creational", "intermediate"]
+}
+]
