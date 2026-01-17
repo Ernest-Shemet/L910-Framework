@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "model": "C++",
+    "BestProgramer": "Никита Гргорьев",
+    "isOperational": true,
+    "manufactureDate": "2015-05-20T00:00:00.000Z",
+    "crewMembers": [
+      "Sidorov",
+      "Petrov"
+    ]
+  },
+  {
+    "id": "2",
+    "model": "T-90",
+    "ser": 37481,
+    "isOperational": true,
+    "manufactureDate": "2020-01-01T00:00:00.000Z",
+    "crewMembers": [
+      "Driver",
+      "Gunner"
+    ]
+  }
+]

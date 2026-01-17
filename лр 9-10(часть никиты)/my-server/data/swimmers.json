@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Никита Григорьев",
+    "age": 18,
+    "hasSubscription": true,
+    "lastVisit": 20,
+    "styles": ["crawl", "breaststroke"]
+  },
+  {
+    "id": "2",
+    "name": "Алексей Иванов",
+    "age": 21,
+    "hasSubscription": false,
+    "lastVisit": 45,
+    "styles": ["backstroke"]
+  },
+  {
+    "id": "3",
+    "name": "Мария Ковалёва",
+    "age": 19,
+    "hasSubscription": true,
+    "lastVisit": 5,
+    "styles": ["breaststroke", "butterfly"]
+  },
+  {
+    "id": "4",
+    "name": "Дмитрий Соколов",
+    "age": 23,
+    "hasSubscription": true,
+    "lastVisit": 12,
+    "styles": ["crawl", "backstroke"]
+  },
+  {
+    "id": "5",
+    "name": "Анна Петрова",
+    "age": 17,
+    "hasSubscription": false,
+    "lastVisit": 60,
+    "styles": ["breaststroke"]
+  }
+]
